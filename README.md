@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio Mock-up
+A quick portfolio idea website
